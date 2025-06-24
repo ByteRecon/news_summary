@@ -1,0 +1,26 @@
+cyber
+cybersecurity
+security
+exploit
+vulnerability
+breach
+hacker
+malware
+ransomware
+phishing
+zero-day
+patch
+privilege escalation
+data leak
+infosec
+bug bounty
+CVE
+DDoS
+rootkit
+attack
+pentest
+mitm
+APT
+backdoor
+trojan
+
